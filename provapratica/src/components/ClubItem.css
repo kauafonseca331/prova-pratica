@@ -1,0 +1,15 @@
+.club-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    flex: 1 0 21%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .club-image {
+    width: 100px;
+    height: 100px;
+  }
+  
